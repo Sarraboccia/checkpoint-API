@@ -1,0 +1,24 @@
+.card{
+    width: 250px;
+    border: 5px solid rgb(221, 195, 161);
+    border-radius: 40px;
+    padding: 70px;
+    margin: 20px;
+  
+    
+    ;
+  }
+  .name{ 
+    color:salmon
+  }
+  .phone{
+    color: burlywood;
+  }
+  .email{
+    color:sandybrown
+  }
+  .website{
+    color: brown
+  }
+ 
+ 
